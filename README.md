@@ -23,6 +23,6 @@ npm install # to install all packages
 npm run dev # to start the website
 ```
 
-Then, your webstie will be running at http://localhost:5173/
+Then, your website will be running at http://localhost:5173/
 
 Done 🎉
